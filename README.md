@@ -1,7 +1,7 @@
 # 🌿 MedlinePlus - Your Trusted Medicine Marketplace
 
 🔗 **Live Site:** [Visit Here](https://medicine-client.web.app/)  
-🔗 **Client Repo:** [GitHub](https://medicine-client.web.app/)  
+🔗 **Client Repo:** [GitHub](https://github.com/BD-Arfat/medicine-client)  
 🔗 **Server Repo:** [GitHub](https://github.com/BD-Arfat/medicine-server)  
 
 ## 🔑 Admin & Seller Credentials
